@@ -1,4 +1,4 @@
-endpoint: http://localhost:4466
+endpoint: https://us1.prisma.sh/gmlwns7430-f7505e/social_backend/dev
 datamodel: datamodel.prisma
 
 generate:
